@@ -14,4 +14,8 @@ A project with solutions to leetcode problems
 
     -905 Sort Array By Parity
     
-    -Flipping an Image
+    -832 Flipping an Image
+    
+    -657 Robot Return to Origin
+    
+    -461 Hamming Distance
