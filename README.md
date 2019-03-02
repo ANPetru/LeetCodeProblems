@@ -11,3 +11,7 @@ A project with solutions to leetcode problems
     -961 N-Repeated Element in Size 2N Array
     
     -977 Squares of a Sorted Array
+
+    -905 Sort Array By Parity
+    
+    -Flipping an Image
